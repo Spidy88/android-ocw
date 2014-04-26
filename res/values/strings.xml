@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Open Course Ware</string>
+    <string name="title_course_detail">Course Detail</string>
+    <string name="url_base_url">http://data.ocwconsortium.org</string>
+    <string name="url_category_list">/api/v1/categories</string>
+    <string name="url_provider_list">/api/v1/providers</string>
+    <string name="url_search_courses">/api/v1/courses/search</string>
+    <string name="url_course_detail">/api/v1/courses/view</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search through Courses</string>
+    <string name="loading_search_results">Loading Search Results</string>
+    <string name="no_search_results">No Search Results</string>
+    <string name="failed_text">Failed to retrieve results</string>
+    <string name="retry_text">Retry</string>
+    <string name="course_description">Description:</string>
+    <string name="course_link">Visit Website</string>
+    <string name="course_provider">Provider:</string>
+    <string name="course_language">Language:</string>
+    <string name="course_date_published">Date Published:</string>
+    <string name="course_score">Score:</string>
+
+</resources>
